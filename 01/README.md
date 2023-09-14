@@ -1,4 +1,4 @@
-# Back-End-Development-and-APIs
+# How to Use package.json, the Core of Any Node.js Project or npm Package
 
 <!DOCTYPE html>
 <html lang="en">
@@ -8,23 +8,18 @@
 </head>
 <body>
     <div class="backend">
-        <p>Until this point, you've only used JavaScript on the front end to add interactivity to a page, solve algorithm challenges, or build an SPA. But JavaScript can also be used on the back end, or server, to build entire web applications.
-            Today, one of the popular ways to build applications is through microservices, which are small, modular applications that work together to form a larger whole.
-            In the Back End Development and APIs Certification, you'll learn how to write back end apps with Node.js and npm. You'll also build web applications with the Express framework, and build a People Finder microservice with MongoDB and the Mongoose library.</p>
-        <h1>Managing Packages with NPM</h1>
+        <p>Working on these challenges will involve you writing your code using one of the following methods:</p>
         <ul>
-            <li>How to Use package.json, the Core of Any Node.js Project or npm Package</li>
-            <li>Build a Markdown Previewer</li>
-            <li>Add a Description to Your package.json</li>
-            <li>Add Keywords to Your package.json</li>
-            <li>Add a License to Your package.json</li>
-            <li>Add a Version to Your package.json</li>
-            <li>Expand Your Project with External Packages from npm</li>
-            <li>Manage npm Dependencies By Understanding Semantic Versioning</li>
-            <li>Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency</li>
-            <li>Use the Caret-Character to Use the Latest Minor Version of a Dependency</li>
-            <li>Remove a Package from Your Dependencies</li>
-          </ul>
+            <li>Clone this GitHub repo and complete these challenges locally.</li>
+            <li>Use our Replit starter project to complete these challenges.</li>
+            <li>Use a site builder of your choice to complete the project. Be sure to incorporate all the files from our GitHub repo.</li>
+        </ul>
+        <p>If you use Replit, follow these steps to set up the project:</p>
+        <ul>
+            <li>Start by importing the project on Replit.</li>
+            <li>Next, you will see a .replit window.</li>
+            <li>Select Use run command and click the Done button.</li>
+        </ul>
     </div>
 </body>
 </html>
