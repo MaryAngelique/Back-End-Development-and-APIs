@@ -9,6 +9,9 @@
 <body>
     <div class="backend">
         <p>Until this point, you've only used JavaScript on the front end to add interactivity to a page, solve algorithm challenges, or build an SPA. But JavaScript can also be used on the back end, or server, to build entire web applications.
+            Today, one of the popular ways to build applications is through microservices, which are small, modular applications that work together to form a larger whole.
+
+
         </p>
         <ul>
             <li>Build a Random Quote Machine</li>
