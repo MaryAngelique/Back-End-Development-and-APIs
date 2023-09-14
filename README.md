@@ -8,9 +8,9 @@
 </head>
 <body>
     <div class="backend">
-        <p>It's time to put your front end development libraries skills to the test. Use Bootstrap, jQuery, Sass, React, and Redux to build 5 projects that will test everything you've learned up to this point.
-
-Complete all 5 projects, and you'll earn the Front End Development Libraries certification.</p>
+        <p>Until this point, you've only used JavaScript on the front end to add interactivity to a page, solve algorithm challenges, or build an SPA. But JavaScript can also be used on the back end, or server, to build entire web applications.
+        <br>
+        </p>
         <ul>
             <li>Build a Random Quote Machine</li>
             <li>Build a Markdown Previewer</li>
