@@ -17,8 +17,8 @@
             <li>Build a Markdown Previewer</li>
             <li>Add a Description to Your package.json</li>
             <li>Add Keywords to Your package.json</li>
-            <li>Build a 25 + 5 Clock</li>
-            <li>How to Use package.json, the Core of Any Node.js Project or npm Package</li>
+            <li>Add a License to Your package.json</li>
+            <li>Add a License to Your package.json</li>
             <li>Build a Markdown Previewer</li>
             <li>Build a Drum Machine</li>
             <li>Build a JavaScript Calculator</li>
