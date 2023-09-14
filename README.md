@@ -21,8 +21,9 @@
             <li>Add a Version to Your package.json</li>
             <li>Expand Your Project with External Packages from npm</li>
             <li>Manage npm Dependencies By Understanding Semantic Versioning</li>
-            <li>Build a JavaScript Calculator</li>
-            <li>Build a 25 + 5 Clock</li>
+            <li>Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency</li>
+            <li>Use the Caret-Character to Use the Latest Minor Version of a Dependency</li>
+            <li>Remove a Package from Your Dependencies</li>
           </ul>
     </div>
 </body>
