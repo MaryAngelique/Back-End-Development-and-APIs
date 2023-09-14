@@ -9,7 +9,6 @@
 <body>
     <div class="backend">
         <p>Until this point, you've only used JavaScript on the front end to add interactivity to a page, solve algorithm challenges, or build an SPA. But JavaScript can also be used on the back end, or server, to build entire web applications.
-        <br>
         </p>
         <ul>
             <li>Build a Random Quote Machine</li>
