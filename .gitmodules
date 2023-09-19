@@ -1,0 +1,3 @@
+[submodule "02/project"]
+	path = 02/project
+	url = git@github.com:freeCodeCamp/boilerplate-npm.git
